@@ -1,0 +1,14 @@
+.recipe__container{
+    display: flex;
+    width: 500px;
+    height: 250px;
+    border-radius: 1rem;
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin: 10px;
+}
+.recipe__container:hover {
+cursor:pointer;
+}
